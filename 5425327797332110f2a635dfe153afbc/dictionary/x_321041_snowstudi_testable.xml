@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4cd53ab797332110f2a635dfe153af67" extends="task" label="TesTable" max_length="40" name="x_321041_snowstudi_testable" type="collection">
+        <element label="Test" max_length="40" name="test" type="boolean"/>
+    </element>
+</database>
